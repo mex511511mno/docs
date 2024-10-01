@@ -12,8 +12,7 @@ See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 We accept different [types of contributions](https://github.com/github/docs/blob/main/contributing/types-of-contributions.md), including some that don't require you to write a single line of code.
 
-On the GitHub Docs site, you can click the make a contribution button to open a PR(Pull Request) for quick fixes like typos, updates, or link fixes.
-
+On the GitHub Docs site, you can click the make a contribution button to open a PR(Pull Request) for quick fixes like typos, updates, or link fix
 <img src="./assets/images/contribution_cta.png" width="400">
 
 For more complex contributions, you can open an issue using the most appropriate [issue template](https://github.com/github/docs/issues/new/choose) to describe the changes you'd like to see. By this way you can also be a part of Open source contributor's community without even writing a single line of code.
